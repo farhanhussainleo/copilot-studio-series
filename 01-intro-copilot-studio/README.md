@@ -23,7 +23,7 @@ This repo accompanies the first video in the **Introduction to Copilot Studio** 
 
 ## Who this is for
 
-This series is aimed for beginners who are new to Copilot Studio and agent creation process. Familiarty with a progrmaming language will be helpful such as Python, C#, etc.
+This series is aimed at beginners who are new to Copilot Studio and the agent creation process. Familiarity with a programming language will be helpful such as Python, C#, etc.
 
 - Developers & technical practitioners new to Copilot Studio
 - Builders who want practical, communication-centric agent workflows
