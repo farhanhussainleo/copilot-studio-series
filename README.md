@@ -10,7 +10,7 @@ Watch the full [Copilot Studio series](aka.ms/copilot-studio-series-youtube) on 
 
 | Lesson | Text & Code | Video | Extra Learning |
 |--------|-------------|-------|----------------|
-| Episode 1: Introduction to Copilot Studio | [Link](./01-intro-copilot-studio) | [Video](#) | [Link](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) |
+| Episode 1: Introduction to Copilot Studio | [Link](./01-intro-copilot-studio) | [Video](https://www.youtube.com/watch?v=3p1vQtGrbm8) | [Link](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) |
 | Episode 2: Build an AI Agent in 5 Minutes | [Link](./02-agent-creation) | Coming Soon | [Link](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-get-started) |
 | Episode 3: Build Your First AI Email Agent | [Link](./03-email-agent) | Coming Soon | |
 | Episode 4: Build an AI Agent that Sends/Schedules SMS | [Link](./04-scheduler-agent) | Coming Soon | |
