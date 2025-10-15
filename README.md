@@ -15,7 +15,7 @@ Watch the full [Copilot Studio series](aka.ms/copilot-studio-series-youtube) on 
 | Episode 3: Build Your First AI Email Agent | [Link](./03-email-agent) | Coming Soon | |
 | Episode 4: Build an AI Agent that Sends/Schedules SMS | [Link](./04-scheduler-agent) | Coming Soon | |
 | Episode 5: Build a Voice AI Agent | [Link](./05-voice-agent) | Coming Soon | |
-| Episode 6: 5 Tips to Make Your AI Agent Smarter | [Link](./06-optimization-tips) | Coming Soon | |
+| Episode 6: 5 Tips to Make Your AI Agent Smarter | [Link](./06-smarter-agents) | Coming Soon | |
 
 _New episodes release weekly - fork this repo to get notified when new content drops._
 
