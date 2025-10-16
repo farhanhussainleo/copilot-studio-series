@@ -1,5 +1,7 @@
 # Copilot Studio for Beginners: Communication Agents
 
+![Copilot Studio Banner](images/banner-CPS.png)
+
 This repo accompanies the **Copilot Studio for Beginners: Communication Agents** video series. Over six episodes, you'll learn how to build AI agents that handle real communication tasks like email, SMS, and voice calls.
 
 Watch the full [Copilot Studio series](https://www.youtube.com/playlist?list=PLWZJrkeLOrbYYfcVeBkFtrFbcJhQwOIlp) on YouTube.
