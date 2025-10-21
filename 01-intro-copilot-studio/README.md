@@ -2,7 +2,7 @@
 
 [![Introduction Video Thumbnail](./images/intro.jpg)](https://www.youtube.com/watch?v=3p1vQtGrbm8)
 
- **Outcome:** Clicking the above image will take you to do the video.
+> _Click the image to jump straight to the episode on YouTube._
 
 Welcome! 👋  
 This repo accompanies the first video in the **Introduction to Copilot Studio** series, focused on building **communication-first agents** (think: email/SMS/voice agents powered by Copilot Studio). In this lesson, we set the stage: what Copilot Studio is and a quick guided tour of the core features you’ll use in the series.
