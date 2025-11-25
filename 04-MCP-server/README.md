@@ -1,6 +1,6 @@
 # Episode 4: Consuming MCP Servers from Microsoft Copilot Studio
 
-[![Video Thumbnail](./images/IC3_Content_Thumb_copy.png)](https://www.youtube.com/watch?v=gcYz-l6R6FQ)
+[![Video Thumbnail](images/IC3_Content_Thumb_copy.png)](https://www.youtube.com/watch?v=gcYz-l6R6FQ)
 
 Welcome to Episode 4 of the **Copilot Studio for Beginners** series!
 
