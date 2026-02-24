@@ -1,3 +1,0 @@
-# Smarter Agents
-
-Coming soon!
