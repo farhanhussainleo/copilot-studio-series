@@ -18,7 +18,7 @@ To sign up for your own Copilot Studio account, visit the [Copilot Studio homepa
 | Episode 2: Build an AI Agent in 10 Minutes | [Link](./02-agent-creation) | [Video](https://www.youtube.com/watch?v=95uFTSWWYmQ) | [Link](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-get-started) |
 | Episode 3: Build Your First AI Email Agent | [Link](./03-email-agent) | [Video](https://youtu.be/gyfE5fTcels) | [Link](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-plugin-actions) |
 | Episode 4: Connect an MCP Server | [Link](./04-MCP-server) | [Video](https://www.youtube.com/watch?v=gcYz-l6R6FQ) | |
-| Episode 5: Tips to Make Your AI Agent Smarter | [Link](./05-smarter-agents) | Coming Soon | |
+
 
 
 _New episodes release weekly - fork this repo to get notified when new content drops._
